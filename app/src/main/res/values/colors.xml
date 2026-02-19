@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pastel_light_lilac">#fee1fd</color>
+    <color name="pastel_light_magenta">#fec3fd</color>
+    <color name="callie">#fdaafc</color>
+    <color name="tropical_juice">#c3fec4</color>
+    <color name="green_hint">#e1fee2</color>
+</resources>
