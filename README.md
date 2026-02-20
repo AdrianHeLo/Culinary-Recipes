@@ -1,9 +1,6 @@
 # Culinary Recipes
 Crea, guarda, modifica, comparte y elimina tus recetas de cocina en un solo lugar. Esta app permite organiza tus recetas curinarias. 
 
-## 📌 Tareas Pendientes
-- Fix Bug: MenuBar no se muestra. 
-
 ## 🎯 Objetivo del proyecto
 - Guardar, crear y modificar recetas curinarias
 - Compartir recetas.
